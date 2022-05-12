@@ -1,8 +1,7 @@
 ## Olá, meu nome é Ilidio Silveira, seja bem vindo ao meu Git ✌️😎✌️
 
 <div align="center">
-  <a href="https://github.com/IlidioSilveira">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=IlidioSilveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlidioSilveira&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/IlidioSilveira"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=IlidioSilveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlidioSilveira&layout=compact&langs_count=7&theme=dracula"/>
     </div>
 
   <div style="display: inline_block"><br>
