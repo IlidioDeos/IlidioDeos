@@ -1,4 +1,4 @@
-<h1 align="center">Olá, bem vindo ao meu Git ✌️😎✌️ </h1>
+<h1 align="center"> Welcome ✌️😎✌️ </h1>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b76114c7b17eec4e170e040b026ae64a5f5f36ef559fd&rid=giphy.gif&ct=g">
 
