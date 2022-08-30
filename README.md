@@ -22,12 +22,12 @@ I was a professional game streamer for almost 4 years on Twitch and Uber for alm
 
 ## Detailed information
 
-* **Name**: Ilidio Deos
-* **Age**: 25
-* **Nationality**: Brazilian and Portuguese
-* **Living in**: Rio de Janeiro, Brazil
+* **Name**: Ilidio Deos.
+* **Age**: 25.
+* **Nationality**: Brazilian and Portuguese.
+* **Living in**: Rio de Janeiro, Brazil.
 * **University**: Software Development at IBMEC (Ends : Aug, 2024).
-* **Prizes:** Twitch Partner and Booyah! (Garena Streaming Platform) Partner
+* **Prizes:** Twitch Partner and Booyah!(Garena Streaming Platform) Partner.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
