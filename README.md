@@ -12,9 +12,7 @@
 
 ## How you doing (Joey Voice)
 
-How nice to see you here.
-
-Since you're here, let me show you a little bit about me.
+How nice to see you here. Since you're here, let me show you a little bit about me.
 
 ## Some info
 
