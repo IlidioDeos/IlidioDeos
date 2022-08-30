@@ -12,9 +12,11 @@
 
 ## How you doing (Joey Voice)
 
-I don't really know how u got here, but I will try to show a little bit about myself for you.
+How nice to see you here.
 
-## Public information
+Since you're here, let me show you a little bit about me.
+
+## Some info
 
 My name is Ilidio Deos. I currently live in Rio de Janeiro, Brazil and I'm a software development student. 
 
