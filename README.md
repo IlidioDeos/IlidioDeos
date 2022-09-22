@@ -13,7 +13,7 @@ How nice to see you here. Since you're here, let me show you a little bit about 
 
 ## Some info
 
-My name is Ilidio Deos. I currently live in Rio de Janeiro, Brazil and I'm a software development student. 
+My name is Ilidio Deos. I currently live in Rio de Janeiro, Brazil and I'm a Full Stack developer student. 
 
 I was a professional game streamer for almost 4 years on Twitch and Uber for almost 2 years in Portugal, and today I dedicate myself fully to college and coding stuff.
 
