@@ -13,13 +13,13 @@ How nice to see you here. Since you're here, let me show you a little bit about 
 
 ## Some info
 
-My name is Ilidio Deos. I currently live in Rio de Janeiro, Brazil and I'm a Full Stack developer student. 
+My name is Ilidio Silveira. I currently live in Rio de Janeiro, Brazil and I'm a Full Stack developer student. 
 
 I was a professional game streamer for almost 4 years on Twitch and Uber for almost 2 years in Portugal, and today I dedicate myself fully to college and coding stuff.
 
 ## Detailed information
 
-* **Name**: Ilidio Deos.
+* **Name**: Ilidio Silveira.
 * **Age**: 25.
 * **Nationality**: Brazilian and Portuguese.
 * **Living in**: Rio de Janeiro, Brazil.
