@@ -7,13 +7,13 @@
     </a>
 </div>
 
-## How you doing (Joey Voice)
+## How you doing
 
 How nice to see you here. Since you're here, let me show you a little bit about me.
 
 ## Some info
 
-My name is Ilidio Silveira. I currently live in Rio de Janeiro, Brazil and I'm a Full Stack developer student. 
+My name is Ilidio Silveira. I currently live in Rio de Janeiro, Brazil and I'm a Data Science and AI Student. 
 
 I was a professional game streamer for almost 4 years on Twitch and Uber for almost 2 years in Portugal, and today I dedicate myself fully to college and coding stuff.
 
@@ -23,7 +23,7 @@ I was a professional game streamer for almost 4 years on Twitch and Uber for alm
 * **Age**: 25.
 * **Nationality**: Brazilian and Portuguese.
 * **Living in**: Rio de Janeiro, Brazil.
-* **University**: Software Development at IBMEC (Ends : Aug, 2024).
+* **University**: Data Science and AI at IBMEC (Ends : Dec, 2025).
 * **Prizes:** Twitch Partner and Booyah!(Garena Streaming Platform) Partner.
 
 <div style="display: inline_block"><br>
