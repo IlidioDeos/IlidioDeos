@@ -2,7 +2,7 @@
     <a target='_blank' href="https://twitch.tv/ILIDIO">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
     </a>
-    <a target='_blank' href="https://www.linkedin.com/in/ilidiosilveira/">
+    <a target='_blank' href="https://www.linkedin.com/in/ilidiodeos/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>
@@ -20,22 +20,17 @@ I was a professional game streamer for almost 4 years on Twitch and Uber for alm
 ## Detailed information
 
 * **Name**: Ilidio Silveira.
-* **Age**: 25.
+* **Age**: 26.
 * **Nationality**: Brazilian and Portuguese.
 * **Living in**: Rio de Janeiro, Brazil.
-* **University**: Data Science and AI at IBMEC (Ends : Dec, 2025).
+* **University**: Data Science and AI at IBMEC (Ends : Jul, 2025).
 * **Prizes:** Twitch Partner and Booyah!(Garena Streaming Platform) Partner.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">  
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
 </div>
