@@ -8,17 +8,19 @@
 
 <div align="center">
  
- Name: Ilidio Silveira.
+ - Name: Ilidio Silveira.
  
- Age: 26.
+ - Age: 26.
 
- Nationality: Brazilian and Portuguese.
+ - Nationality: Brazilian and Portuguese.
 
- Living in: Rio de Janeiro, Brazil.
+ - Living in: Rio de Janeiro, Brazil.
 
- University: Data Science and AI at IBMEC (Ends : Jul, 2025).
+ - University: Data Science and AI at IBMEC (Ends : Jul, 2025).
 
  </div>
+
+ <br/>
  
 <div align="center"> 
     <a target='_blank' href="https://twitch.tv/ILIDIO">
