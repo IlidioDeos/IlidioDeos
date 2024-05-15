@@ -34,7 +34,7 @@
 <h2 align="center"> Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,javascript,typescript,python,django,flask,java,mysql,mongodb,postegres,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,javascript,typescript,python,django,flask,java,mysql,mongodb,postgresql,firebase" /><br>
 </div>
 
 <br/>
