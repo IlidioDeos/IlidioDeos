@@ -12,6 +12,6 @@
 * **Name**: Ilidio Silveira
 * **Age**: 26
 * **Living in**: Rio de Janeiro - RJ, Brazil
-* **Stack**: TypeScript - Python - SQL - Azure - GCP - Docker
-* **Learning**: Flutter, Firebase and Supabase
+* **Stack**: TypeScript - Python for Data and AI - SQL - Azure - GCP - Docker
+* **Learning**: Rails and Supabase
 * **University**: Data Science with Artificial Intelligence at IBMEC (Ends : Jul, 2025).
