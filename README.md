@@ -10,8 +10,6 @@
 ## About me
 
 * **Name**: Ilidio Silveira
-* **Age**: 26
+* **Age**: 27
 * **Living in**: Rio de Janeiro - RJ, Brazil
-* **Stack**: TypeScript - Python for Data and AI - SQL - Azure - GCP - Docker
-* **Learning**: Rails and Supabase
-* **University**: Data Science with Artificial Intelligence at IBMEC (Ends : Jul, 2025).
+* **University**: Data Science and Artificial Intelligence at IBMEC (Ends : Jul, 2025).
