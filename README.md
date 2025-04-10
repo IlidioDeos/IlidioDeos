@@ -11,5 +11,4 @@
 
 * **Name**: Ilidio Silveira
 * **Age**: 27
-* **Living in**: Rio de Janeiro - RJ, Brazil
-* **University**: Data Science and Artificial Intelligence at IBMEC (Ends : Jul, 2025).
+* **Living in**: São Paulo - SP, Brazil
